@@ -1,21 +1,5 @@
-# sass_basis
+自己搭的 React + Typescript 项目开发环境，也写了文章作为记录：
 
-> A Vue.js project
+- [我是这样搭建 Typescript+React 项目环境的！（2.7w 字详解)](https://github.com/vortesnail/blog/issues/14)
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+欢迎大家阅读，评论，star！
